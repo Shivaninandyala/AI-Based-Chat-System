@@ -34,7 +34,7 @@ Thumbs.db
 *.swp
 *.swo
 
-# Data output (optional if generated dynamically)
+# Data output
 *.csv
 
 # Environment and credentials
